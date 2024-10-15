@@ -2,6 +2,9 @@
 
 Esta es una aplicación web desarrollada con React.js y Material-UI que permite a los usuarios publicar anuncios de vehículos. Los usuarios pueden ingresar un precio y una descripción, y al hacer clic en "Publicar", se mostrará un indicador de carga mientras se realiza la publicación. Una vez completada, se muestra la información del anuncio publicado junto con una captura de pantalla.
 
+![Screenshot 2024-10-15 at 12 35 06 p m](https://github.com/user-attachments/assets/e1351f67-75ec-4f7c-8e9b-4e63d545be3c)
+![Screenshot 2024-10-15 at 12 34 51 p m](https://github.com/user-attachments/assets/bd8abd6b-3d70-4d13-b1ec-db6aa2e593ff)
+
 ## Características
 - Ingresar precio y descripción de un anuncio.
 - Publicar anuncios utilizando una API.
