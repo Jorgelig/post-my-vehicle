@@ -1,0 +1,374 @@
+2024-10-15T09:17:16.071Z info: 1728983835943 - Inicio de sesión
+2024-10-15T09:17:16.074Z info: Iniciando sesión...
+2024-10-15T09:17:18.492Z info: Screenshot taken for step: goto_login_page
+2024-10-15T09:17:20.284Z info: Correo ingresado
+2024-10-15T09:17:21.540Z info: Contraseña ingresada
+2024-10-15T09:17:22.012Z info: Botón de login clickeado
+2024-10-15T09:17:27.687Z info: Screenshot taken for step: login_successful
+2024-10-15T09:17:27.687Z info: Inicio de sesión exitoso
+2024-10-15T09:17:27.688Z info: Redireccionando desde redirectUrl
+2024-10-15T09:17:34.107Z info: Screenshot taken for step: redirect_home
+2024-10-15T09:17:34.107Z info: Redirección manejada correctamente
+2024-10-15T09:17:34.108Z info: Navegando a la página de creación de anuncio...
+2024-10-15T09:17:37.229Z info: Screenshot taken for step: goto_new_ad_page
+2024-10-15T09:17:37.229Z info: En página de nuevo anuncio
+2024-10-15T09:17:37.229Z info: Seleccionando tipo de vehículo...
+2024-10-15T09:17:38.160Z info: Tipo de vehículo desplegado
+2024-10-15T09:17:38.796Z info: Tipo de vehículo seleccionado
+2024-10-15T09:17:38.796Z info: Seleccionando marca...
+2024-10-15T09:17:39.459Z info: Marca desplegada
+2024-10-15T09:17:40.085Z info: Marca seleccionada
+2024-10-15T09:17:40.086Z info: Seleccionando modelo...
+2024-10-15T09:17:40.744Z info: Modelo desplegado
+2024-10-15T09:17:41.386Z info: Modelo seleccionado
+2024-10-15T09:17:41.386Z info: Seleccionando subtipo...
+2024-10-15T09:17:42.027Z info: Subtipo desplegado
+2024-10-15T09:17:42.677Z info: Subtipo seleccionado
+2024-10-15T09:17:42.677Z info: Seleccionando año...
+2024-10-15T09:17:43.346Z info: Año desplegado
+2024-10-15T09:17:44.059Z info: Año seleccionado
+2024-10-15T09:17:44.059Z info: Seleccionando provincia...
+2024-10-15T09:17:44.700Z info: Provincia desplegada
+2024-10-15T09:17:45.462Z info: Provincia seleccionada
+2024-10-15T09:17:45.462Z info: Seleccionando ciudad...
+2024-10-15T09:17:46.126Z info: Ciudad desplegada
+2024-10-15T09:17:46.834Z info: Ciudad seleccionada
+2024-10-15T09:17:46.836Z info: Ingresando kilometraje...
+2024-10-15T09:17:48.053Z info: Kilometraje ingresado
+2024-10-15T09:17:48.053Z info: Ingresando precio 350000...
+2024-10-15T09:17:49.364Z info: Precio ingresado
+2024-10-15T09:17:49.364Z info: Haciendo clic en el botón "Siguiente"...
+2024-10-15T09:17:53.612Z info: Screenshot taken for step: clicked_next_after_negotiable
+2024-10-15T09:17:53.612Z info: Navegando a la siguiente página
+2024-10-15T09:17:53.612Z info: Ingresando descripción: Vendo mi impecable Acura ILX 2018, un sedán de lujo que combina a la perfección elegancia, rendimiento y comodidad. Este vehículo ha sido cuidadosamente mantenido y se encuentra en excelente estado tanto estético como mecánico, con un interior espacioso y acabados de alta calidad. Equipado con tecnología avanzada, sistemas de seguridad de última generación y un motor potente pero eficiente, el Acura ILX ofrece una experiencia de conducción placentera y segura. Ideal para quienes buscan un automóvil confiable y sofisticado, este sedán está listo para acompañarte en todas tus aventuras, brindando confort y estilo en cada viaje. ...
+2024-10-15T09:18:38.342Z info: Descripción ingresada
+2024-10-15T09:18:38.343Z info: Subiendo fotos...
+2024-10-15T09:18:38.654Z info: Fotos seleccionadas para subir
+2024-10-15T09:18:38.654Z info: Esperando a que las fotos se carguen...
+2024-10-15T09:18:40.490Z info: Screenshot taken for step: photos_uploaded
+2024-10-15T09:18:40.490Z info: Fotos subidas correctamente
+2024-10-15T09:18:40.490Z info: Haciendo clic en el botón "Siguiente" después de subir fotos...
+2024-10-15T09:18:49.782Z info: Screenshot taken for step: clicked_next_after_uploads
+2024-10-15T09:18:49.782Z info: Navegando a la página final
+2024-10-15T09:18:49.782Z info: Publicando anuncio...
+2024-10-15T09:18:50.605Z info: Screenshot taken for step: clicked_publish
+2024-10-15T09:18:51.270Z info: Screenshot taken for step: post_publish_navigation
+2024-10-15T09:18:51.270Z info: Navegando a la página de resultados post-publicación
+2024-10-15T09:18:51.270Z info: URL actual después de publicar: https://www.seminuevos.com/myvehicle/4626878
+2024-10-15T09:18:51.270Z info: Publicación exitosa
+2024-10-15T09:18:51.953Z info: Screenshot taken for step: final_page
+2024-10-15T09:58:38.623Z info: 1728986318494 - Inicio de sesión
+2024-10-15T09:58:38.627Z info: Iniciando sesión...
+2024-10-15T09:58:41.098Z info: Screenshot taken for step: goto_login_page
+2024-10-15T09:58:42.876Z info: Correo ingresado
+2024-10-15T09:58:44.123Z info: Contraseña ingresada
+2024-10-15T09:58:44.580Z info: Botón de login clickeado
+2024-10-15T09:58:50.221Z info: Screenshot taken for step: login_successful
+2024-10-15T09:58:50.221Z info: Inicio de sesión exitoso
+2024-10-15T09:58:50.222Z info: Redireccionando desde redirectUrl
+2024-10-15T09:58:57.384Z info: Screenshot taken for step: redirect_home
+2024-10-15T09:58:57.384Z info: Redirección manejada correctamente
+2024-10-15T09:58:57.385Z info: Navegando a la página de creación de anuncio...
+2024-10-15T09:59:00.505Z info: Screenshot taken for step: goto_new_ad_page
+2024-10-15T09:59:00.505Z info: En página de nuevo anuncio
+2024-10-15T09:59:00.505Z info: Seleccionando tipo de vehículo...
+2024-10-15T09:59:01.419Z info: Tipo de vehículo desplegado
+2024-10-15T09:59:02.054Z info: Tipo de vehículo seleccionado
+2024-10-15T09:59:02.054Z info: Seleccionando marca...
+2024-10-15T09:59:02.706Z info: Marca desplegada
+2024-10-15T09:59:03.341Z info: Marca seleccionada
+2024-10-15T09:59:03.342Z info: Seleccionando modelo...
+2024-10-15T09:59:03.984Z info: Modelo desplegado
+2024-10-15T09:59:04.660Z info: Modelo seleccionado
+2024-10-15T09:59:04.661Z info: Seleccionando subtipo...
+2024-10-15T09:59:05.301Z info: Subtipo desplegado
+2024-10-15T09:59:05.929Z info: Subtipo seleccionado
+2024-10-15T09:59:05.929Z info: Seleccionando año...
+2024-10-15T09:59:06.588Z info: Año desplegado
+2024-10-15T09:59:07.292Z info: Año seleccionado
+2024-10-15T09:59:07.292Z info: Seleccionando provincia...
+2024-10-15T09:59:08.060Z info: Provincia desplegada
+2024-10-15T09:59:08.779Z info: Provincia seleccionada
+2024-10-15T09:59:08.779Z info: Seleccionando ciudad...
+2024-10-15T09:59:09.413Z info: Ciudad desplegada
+2024-10-15T09:59:10.115Z info: Ciudad seleccionada
+2024-10-15T09:59:10.115Z info: Ingresando kilometraje...
+2024-10-15T09:59:11.337Z info: Kilometraje ingresado
+2024-10-15T09:59:11.337Z info: Ingresando precio 100000...
+2024-10-15T09:59:12.640Z info: Precio ingresado
+2024-10-15T09:59:12.640Z info: Haciendo clic en el botón "Siguiente"...
+2024-10-15T09:59:17.091Z info: Screenshot taken for step: clicked_next_after_negotiable
+2024-10-15T09:59:17.091Z info: Navegando a la siguiente página
+2024-10-15T09:59:17.091Z info: Ingresando descripción: Este carro es el mejor ...
+2024-10-15T09:59:19.009Z info: Descripción ingresada
+2024-10-15T09:59:19.010Z info: Subiendo fotos...
+2024-10-15T09:59:19.314Z info: Fotos seleccionadas para subir
+2024-10-15T09:59:19.315Z info: Esperando a que las fotos se carguen...
+2024-10-15T09:59:21.011Z info: Screenshot taken for step: photos_uploaded
+2024-10-15T09:59:21.011Z info: Fotos subidas correctamente
+2024-10-15T09:59:21.011Z info: Haciendo clic en el botón "Siguiente" después de subir fotos...
+2024-10-15T09:59:29.690Z info: Screenshot taken for step: clicked_next_after_uploads
+2024-10-15T09:59:29.690Z info: Navegando a la página final
+2024-10-15T09:59:29.690Z info: Publicando anuncio...
+2024-10-15T09:59:30.422Z info: Screenshot taken for step: clicked_publish
+2024-10-15T09:59:31.114Z info: Screenshot taken for step: post_publish_navigation
+2024-10-15T09:59:31.114Z info: Navegando a la página de resultados post-publicación
+2024-10-15T09:59:31.115Z info: URL actual después de publicar: https://www.seminuevos.com/myvehicle/4626879
+2024-10-15T09:59:31.115Z info: Publicación exitosa
+2024-10-15T09:59:31.807Z info: Screenshot taken for step: final_page
+2024-10-15T10:05:38.717Z info: 1728986738583 - Inicio de sesión
+2024-10-15T10:05:38.719Z info: Iniciando sesión...
+2024-10-15T10:05:42.121Z info: Screenshot taken for step: goto_login_page
+2024-10-15T10:05:43.902Z info: Correo ingresado
+2024-10-15T10:05:45.154Z info: Contraseña ingresada
+2024-10-15T10:05:45.602Z info: Botón de login clickeado
+2024-10-15T10:05:49.669Z info: Screenshot taken for step: login_successful
+2024-10-15T10:05:49.672Z info: Inicio de sesión exitoso
+2024-10-15T10:05:49.673Z info: Redireccionando desde redirectUrl
+2024-10-15T10:05:56.887Z info: Screenshot taken for step: redirect_home
+2024-10-15T10:05:56.888Z info: Redirección manejada correctamente
+2024-10-15T10:05:56.888Z info: Navegando a la página de creación de anuncio...
+2024-10-15T10:05:59.978Z info: Screenshot taken for step: goto_new_ad_page
+2024-10-15T10:05:59.978Z info: En página de nuevo anuncio
+2024-10-15T10:05:59.978Z info: Seleccionando tipo de vehículo...
+2024-10-15T10:06:00.937Z info: Tipo de vehículo desplegado
+2024-10-15T10:06:01.572Z info: Tipo de vehículo seleccionado
+2024-10-15T10:06:01.572Z info: Seleccionando marca...
+2024-10-15T10:06:02.233Z info: Marca desplegada
+2024-10-15T10:06:02.873Z info: Marca seleccionada
+2024-10-15T10:06:02.874Z info: Seleccionando modelo...
+2024-10-15T10:06:03.529Z info: Modelo desplegado
+2024-10-15T10:06:04.181Z info: Modelo seleccionado
+2024-10-15T10:06:04.181Z info: Seleccionando subtipo...
+2024-10-15T10:06:04.812Z info: Subtipo desplegado
+2024-10-15T10:06:05.461Z info: Subtipo seleccionado
+2024-10-15T10:06:05.461Z info: Seleccionando año...
+2024-10-15T10:06:06.110Z info: Año desplegado
+2024-10-15T10:06:06.830Z info: Año seleccionado
+2024-10-15T10:06:06.830Z info: Seleccionando provincia...
+2024-10-15T10:06:07.485Z info: Provincia desplegada
+2024-10-15T10:06:08.271Z info: Provincia seleccionada
+2024-10-15T10:06:08.271Z info: Seleccionando ciudad...
+2024-10-15T10:06:08.925Z info: Ciudad desplegada
+2024-10-15T10:06:09.626Z info: Ciudad seleccionada
+2024-10-15T10:06:09.626Z info: Ingresando kilometraje...
+2024-10-15T10:06:10.878Z info: Kilometraje ingresado
+2024-10-15T10:06:10.878Z info: Ingresando precio 345000...
+2024-10-15T10:06:12.189Z info: Precio ingresado
+2024-10-15T10:06:12.189Z info: Haciendo clic en el botón "Siguiente"...
+2024-10-15T10:06:17.137Z info: Screenshot taken for step: clicked_next_after_negotiable
+2024-10-15T10:06:17.137Z info: Navegando a la siguiente página
+2024-10-15T10:06:17.137Z info: Ingresando descripción: Este vehioculo es lo mejor ...
+2024-10-15T10:06:19.413Z info: Descripción ingresada
+2024-10-15T10:06:19.413Z info: Subiendo fotos...
+2024-10-15T10:06:19.931Z info: Fotos seleccionadas para subir
+2024-10-15T10:06:19.932Z info: Esperando a que las fotos se carguen...
+2024-10-15T10:06:21.692Z info: Screenshot taken for step: photos_uploaded
+2024-10-15T10:06:21.692Z info: Fotos subidas correctamente
+2024-10-15T10:06:21.692Z info: Haciendo clic en el botón "Siguiente" después de subir fotos...
+2024-10-15T10:06:30.266Z info: Screenshot taken for step: clicked_next_after_uploads
+2024-10-15T10:06:30.266Z info: Navegando a la página final
+2024-10-15T10:06:30.266Z info: Publicando anuncio...
+2024-10-15T10:06:31.145Z info: Screenshot taken for step: clicked_publish
+2024-10-15T10:06:31.969Z info: Screenshot taken for step: post_publish_navigation
+2024-10-15T10:06:31.969Z info: Navegando a la página de resultados post-publicación
+2024-10-15T10:06:31.970Z info: URL actual después de publicar: https://www.seminuevos.com/myvehicle/4626880
+2024-10-15T10:06:31.971Z info: Publicación exitosa
+2024-10-15T10:06:32.678Z info: Screenshot taken for step: final_page
+2024-10-15T10:33:05.715Z info: 1728988385586 - Inicio de sesión
+2024-10-15T10:33:05.720Z info: Iniciando sesión...
+2024-10-15T10:33:09.519Z info: Screenshot taken for step: goto_login_page
+2024-10-15T10:33:11.352Z info: Correo ingresado
+2024-10-15T10:33:12.832Z info: Contraseña ingresada
+2024-10-15T10:33:13.300Z info: Botón de login clickeado
+2024-10-15T10:33:19.024Z info: Screenshot taken for step: login_successful
+2024-10-15T10:33:19.025Z info: Inicio de sesión exitoso
+2024-10-15T10:33:19.025Z info: Redireccionando desde redirectUrl
+2024-10-15T10:33:26.976Z info: Screenshot taken for step: redirect_home
+2024-10-15T10:33:26.976Z info: Redirección manejada correctamente
+2024-10-15T10:33:26.976Z info: Navegando a la página de creación de anuncio...
+2024-10-15T10:33:30.010Z info: Screenshot taken for step: goto_new_ad_page
+2024-10-15T10:33:30.011Z info: En página de nuevo anuncio
+2024-10-15T10:33:30.011Z info: Seleccionando tipo de vehículo...
+2024-10-15T10:33:30.935Z info: Tipo de vehículo desplegado
+2024-10-15T10:34:00.945Z error: Error llenando el formulario del anuncio Waiting for selector `.active > .over-item-bg li:nth-child(1) > [href="#"]` failed: Waiting failed: 30000ms exceeded
+2024-10-15T10:34:01.388Z info: Screenshot taken for step: error_error_llenando_el_formulario_del_anuncio
+2024-10-15T10:34:01.388Z error: Error publicando el anuncio Waiting for selector `.active > .over-item-bg li:nth-child(1) > [href="#"]` failed: Waiting failed: 30000ms exceeded
+2024-10-15T10:34:01.799Z info: Screenshot taken for step: error_error_publicando_el_anuncio
+2024-10-15T10:34:56.531Z info: 1728988496403 - Inicio de sesión
+2024-10-15T10:34:56.532Z info: Iniciando sesión...
+2024-10-15T10:34:58.949Z info: Screenshot taken for step: goto_login_page
+2024-10-15T10:35:00.709Z info: Correo ingresado
+2024-10-15T10:35:01.943Z info: Contraseña ingresada
+2024-10-15T10:35:02.397Z info: Botón de login clickeado
+2024-10-15T10:35:04.405Z info: Screenshot taken for step: login_successful
+2024-10-15T10:35:04.406Z info: Inicio de sesión exitoso
+2024-10-15T10:35:04.406Z info: Redireccionando desde redirectUrl
+2024-10-15T10:35:10.351Z info: Screenshot taken for step: redirect_home
+2024-10-15T10:35:10.351Z info: Redirección manejada correctamente
+2024-10-15T10:35:10.351Z info: Navegando a la página de creación de anuncio...
+2024-10-15T10:35:13.464Z info: Screenshot taken for step: goto_new_ad_page
+2024-10-15T10:35:13.465Z info: En página de nuevo anuncio
+2024-10-15T10:35:13.465Z info: Seleccionando tipo de vehículo...
+2024-10-15T10:35:14.384Z info: Tipo de vehículo desplegado
+2024-10-15T10:35:15.036Z info: Tipo de vehículo seleccionado
+2024-10-15T10:35:15.037Z info: Seleccionando marca...
+2024-10-15T10:35:15.682Z info: Marca desplegada
+2024-10-15T10:35:16.312Z info: Marca seleccionada
+2024-10-15T10:35:16.313Z info: Seleccionando modelo...
+2024-10-15T10:35:16.983Z info: Modelo desplegado
+2024-10-15T10:35:17.615Z info: Modelo seleccionado
+2024-10-15T10:35:17.615Z info: Seleccionando subtipo...
+2024-10-15T10:35:18.246Z info: Subtipo desplegado
+2024-10-15T10:35:18.867Z info: Subtipo seleccionado
+2024-10-15T10:35:18.867Z info: Seleccionando año...
+2024-10-15T10:35:19.506Z info: Año desplegado
+2024-10-15T10:35:20.200Z info: Año seleccionado
+2024-10-15T10:35:20.200Z info: Seleccionando provincia...
+2024-10-15T10:35:20.845Z info: Provincia desplegada
+2024-10-15T10:35:21.557Z info: Provincia seleccionada
+2024-10-15T10:35:21.557Z info: Seleccionando ciudad...
+2024-10-15T10:35:22.200Z info: Ciudad desplegada
+2024-10-15T10:35:22.918Z info: Ciudad seleccionada
+2024-10-15T10:35:22.918Z info: Ingresando kilometraje...
+2024-10-15T10:35:24.125Z info: Kilometraje ingresado
+2024-10-15T10:35:24.126Z info: Ingresando precio 3560...
+2024-10-15T10:35:25.268Z info: Precio ingresado
+2024-10-15T10:35:25.268Z info: Haciendo clic en el botón "Siguiente"...
+2024-10-15T10:35:29.667Z info: Screenshot taken for step: clicked_next_after_negotiable
+2024-10-15T10:35:29.667Z info: Navegando a la siguiente página
+2024-10-15T10:35:29.667Z info: Ingresando descripción: adfadfaasdfadf ...
+2024-10-15T10:35:31.046Z info: Descripción ingresada
+2024-10-15T10:35:31.047Z info: Subiendo fotos...
+2024-10-15T10:35:31.351Z info: Fotos seleccionadas para subir
+2024-10-15T10:35:31.351Z info: Esperando a que las fotos se carguen...
+2024-10-15T10:35:33.123Z info: Screenshot taken for step: photos_uploaded
+2024-10-15T10:35:33.123Z info: Fotos subidas correctamente
+2024-10-15T10:35:33.123Z info: Haciendo clic en el botón "Siguiente" después de subir fotos...
+2024-10-15T10:35:41.098Z info: Screenshot taken for step: clicked_next_after_uploads
+2024-10-15T10:35:41.098Z info: Navegando a la página final
+2024-10-15T10:35:41.098Z info: Publicando anuncio...
+2024-10-15T10:35:41.906Z info: Screenshot taken for step: clicked_publish
+2024-10-15T10:35:42.804Z info: Screenshot taken for step: post_publish_navigation
+2024-10-15T10:35:42.804Z info: Navegando a la página de resultados post-publicación
+2024-10-15T10:35:42.804Z info: URL actual después de publicar: https://www.seminuevos.com/myvehicle/4626881
+2024-10-15T10:35:42.804Z info: Publicación exitosa
+2024-10-15T10:35:43.504Z info: Screenshot taken for step: final_page
+2024-10-15T10:41:29.438Z info: 1728988889309 - Inicio de sesión
+2024-10-15T10:41:29.441Z info: Iniciando sesión...
+2024-10-15T10:41:31.961Z info: Screenshot taken for step: goto_login_page
+2024-10-15T10:41:33.773Z info: Correo ingresado
+2024-10-15T10:41:35.029Z info: Contraseña ingresada
+2024-10-15T10:41:35.501Z info: Botón de login clickeado
+2024-10-15T10:41:39.420Z info: Screenshot taken for step: login_successful
+2024-10-15T10:41:39.420Z info: Inicio de sesión exitoso
+2024-10-15T10:41:39.420Z info: Redireccionando desde redirectUrl
+2024-10-15T10:41:48.272Z info: Screenshot taken for step: redirect_home
+2024-10-15T10:41:48.273Z info: Redirección manejada correctamente
+2024-10-15T10:41:48.273Z info: Navegando a la página de creación de anuncio...
+2024-10-15T10:41:51.608Z info: Screenshot taken for step: goto_new_ad_page
+2024-10-15T10:41:51.609Z info: En página de nuevo anuncio
+2024-10-15T10:41:51.609Z info: Seleccionando tipo de vehículo...
+2024-10-15T10:41:52.554Z info: Tipo de vehículo desplegado
+2024-10-15T10:41:53.489Z info: Tipo de vehículo seleccionado
+2024-10-15T10:41:53.503Z info: Seleccionando marca...
+2024-10-15T10:41:54.382Z info: Marca desplegada
+2024-10-15T10:41:55.135Z info: Marca seleccionada
+2024-10-15T10:41:55.136Z info: Seleccionando modelo...
+2024-10-15T10:41:55.763Z info: Modelo desplegado
+2024-10-15T10:41:56.400Z info: Modelo seleccionado
+2024-10-15T10:41:56.400Z info: Seleccionando subtipo...
+2024-10-15T10:41:57.201Z info: Subtipo desplegado
+2024-10-15T10:41:57.868Z info: Subtipo seleccionado
+2024-10-15T10:41:57.869Z info: Seleccionando año...
+2024-10-15T10:41:58.649Z info: Año desplegado
+2024-10-15T10:42:00.282Z info: Año seleccionado
+2024-10-15T10:42:00.283Z info: Seleccionando provincia...
+2024-10-15T10:42:01.137Z info: Provincia desplegada
+2024-10-15T10:42:03.216Z info: Provincia seleccionada
+2024-10-15T10:42:03.219Z info: Seleccionando ciudad...
+2024-10-15T10:42:03.918Z info: Ciudad desplegada
+2024-10-15T10:42:04.617Z info: Ciudad seleccionada
+2024-10-15T10:42:04.617Z info: Ingresando kilometraje...
+2024-10-15T10:42:05.834Z info: Kilometraje ingresado
+2024-10-15T10:42:05.834Z info: Ingresando precio 500000...
+2024-10-15T10:42:07.106Z info: Precio ingresado
+2024-10-15T10:42:07.107Z info: Haciendo clic en el botón "Siguiente"...
+2024-10-15T10:42:11.457Z info: Screenshot taken for step: clicked_next_after_negotiable
+2024-10-15T10:42:11.458Z info: Navegando a la siguiente página
+2024-10-15T10:42:11.458Z info: Ingresando descripción: Lorem ipsum ...
+2024-10-15T10:42:12.635Z info: Descripción ingresada
+2024-10-15T10:42:12.635Z info: Subiendo fotos...
+2024-10-15T10:42:12.970Z info: Fotos seleccionadas para subir
+2024-10-15T10:42:12.970Z info: Esperando a que las fotos se carguen...
+2024-10-15T10:42:14.930Z info: Screenshot taken for step: photos_uploaded
+2024-10-15T10:42:14.931Z info: Fotos subidas correctamente
+2024-10-15T10:42:14.931Z info: Haciendo clic en el botón "Siguiente" después de subir fotos...
+2024-10-15T10:42:23.601Z info: Screenshot taken for step: clicked_next_after_uploads
+2024-10-15T10:42:23.601Z info: Navegando a la página final
+2024-10-15T10:42:23.601Z info: Publicando anuncio...
+2024-10-15T10:42:25.038Z info: Screenshot taken for step: clicked_publish
+2024-10-15T10:42:25.864Z info: Screenshot taken for step: post_publish_navigation
+2024-10-15T10:42:25.864Z info: Navegando a la página de resultados post-publicación
+2024-10-15T10:42:25.865Z info: URL actual después de publicar: https://www.seminuevos.com/myvehicle/4626882
+2024-10-15T10:42:25.866Z info: Publicación exitosa
+2024-10-15T10:42:26.571Z info: Screenshot taken for step: final_page
+2024-10-15T10:49:15.962Z info: 1728989355835 - Inicio de sesión
+2024-10-15T10:49:15.963Z info: Iniciando sesión...
+2024-10-15T10:49:18.951Z info: Screenshot taken for step: goto_login_page
+2024-10-15T10:49:20.740Z info: Correo ingresado
+2024-10-15T10:49:21.980Z info: Contraseña ingresada
+2024-10-15T10:49:22.428Z info: Botón de login clickeado
+2024-10-15T10:49:26.560Z info: Screenshot taken for step: login_successful
+2024-10-15T10:49:26.560Z info: Inicio de sesión exitoso
+2024-10-15T10:49:26.560Z info: Redireccionando desde redirectUrl
+2024-10-15T10:49:35.212Z info: Screenshot taken for step: redirect_home
+2024-10-15T10:49:35.214Z info: Redirección manejada correctamente
+2024-10-15T10:49:35.214Z info: Navegando a la página de creación de anuncio...
+2024-10-15T10:49:38.549Z info: Screenshot taken for step: goto_new_ad_page
+2024-10-15T10:49:38.549Z info: En página de nuevo anuncio
+2024-10-15T10:49:38.549Z info: Seleccionando tipo de vehículo...
+2024-10-15T10:49:39.553Z info: Tipo de vehículo desplegado
+2024-10-15T10:49:40.561Z info: Tipo de vehículo seleccionado
+2024-10-15T10:49:40.561Z info: Seleccionando marca...
+2024-10-15T10:49:41.219Z info: Marca desplegada
+2024-10-15T10:49:41.843Z info: Marca seleccionada
+2024-10-15T10:49:41.844Z info: Seleccionando modelo...
+2024-10-15T10:49:42.496Z info: Modelo desplegado
+2024-10-15T10:49:43.115Z info: Modelo seleccionado
+2024-10-15T10:49:43.116Z info: Seleccionando subtipo...
+2024-10-15T10:49:43.743Z info: Subtipo desplegado
+2024-10-15T10:49:44.362Z info: Subtipo seleccionado
+2024-10-15T10:49:44.362Z info: Seleccionando año...
+2024-10-15T10:49:45.000Z info: Año desplegado
+2024-10-15T10:49:45.696Z info: Año seleccionado
+2024-10-15T10:49:45.696Z info: Seleccionando provincia...
+2024-10-15T10:49:46.332Z info: Provincia desplegada
+2024-10-15T10:49:47.043Z info: Provincia seleccionada
+2024-10-15T10:49:47.044Z info: Seleccionando ciudad...
+2024-10-15T10:49:47.680Z info: Ciudad desplegada
+2024-10-15T10:49:48.456Z info: Ciudad seleccionada
+2024-10-15T10:49:48.457Z info: Ingresando kilometraje...
+2024-10-15T10:49:49.714Z info: Kilometraje ingresado
+2024-10-15T10:49:49.714Z info: Ingresando precio 1231231.23...
+2024-10-15T10:49:51.345Z info: Precio ingresado
+2024-10-15T10:49:51.346Z info: Haciendo clic en el botón "Siguiente"...
+2024-10-15T10:49:56.544Z info: Screenshot taken for step: clicked_next_after_negotiable
+2024-10-15T10:49:56.544Z info: Navegando a la siguiente página
+2024-10-15T10:49:56.544Z info: Ingresando descripción: asdfafdadfas ...
+2024-10-15T10:49:57.887Z info: Descripción ingresada
+2024-10-15T10:49:57.888Z info: Subiendo fotos...
+2024-10-15T10:49:58.202Z info: Fotos seleccionadas para subir
+2024-10-15T10:49:58.202Z info: Esperando a que las fotos se carguen...
+2024-10-15T10:50:00.040Z info: Screenshot taken for step: photos_uploaded
+2024-10-15T10:50:00.040Z info: Fotos subidas correctamente
+2024-10-15T10:50:00.040Z info: Haciendo clic en el botón "Siguiente" después de subir fotos...
+2024-10-15T10:50:10.707Z info: Screenshot taken for step: clicked_next_after_uploads
+2024-10-15T10:50:10.714Z info: Navegando a la página final
+2024-10-15T10:50:10.714Z info: Publicando anuncio...
+2024-10-15T10:50:11.566Z info: Screenshot taken for step: clicked_publish
+2024-10-15T10:50:12.350Z info: Screenshot taken for step: post_publish_navigation
+2024-10-15T10:50:12.350Z info: Navegando a la página de resultados post-publicación
+2024-10-15T10:50:12.351Z info: URL actual después de publicar: https://www.seminuevos.com/myvehicle/4626883
+2024-10-15T10:50:12.354Z info: Publicación exitosa
+2024-10-15T10:50:13.142Z info: Screenshot taken for step: final_page
