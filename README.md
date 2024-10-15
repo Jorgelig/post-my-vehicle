@@ -60,7 +60,7 @@ REACT_APP_API_BASE_URL=http://localhost:3001
    ```
    La aplicación estará disponible en `http://localhost:3000`.
 
-### Opcion 1: Ejecutar con Docker
+### Opcion 2: Ejecutar con Docker
 1. Asegúrate de tener Docker instalado.
 2. Levanta contenedores backed y frontend con Docker:
    ```bash
@@ -69,18 +69,6 @@ REACT_APP_API_BASE_URL=http://localhost:3001
 
 La aplicación frontend estará disponible en `http://localhost:3000`.
 El backend estará disponible en `http://localhost:3001`.
-
-1. Navega a la carpeta del frontend.
-2. Instala las dependencias del proyecto:
-   ```bash
-   npm install
-   ```
-3. Inicia la aplicación:
-   ```bash
-   npm start
-   ```
-
-La aplicación estará disponible en `http://localhost:3000`.
 
 ## Pruebas de la API
 Para probar la API de publicación de anuncios, puedes usar los siguientes comandos `curl`:
